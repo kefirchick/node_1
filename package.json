@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "NodeJS course task#1 Calculator Testing App",
   "main": "index.js",
+  "dependencies": {
+    "node_1_pack_kefirchick": "^1.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
